@@ -1,6 +1,6 @@
 # prova-databigcorp
 
-strutura de Software para o Sistema de Vendas de Ingressos
+estrutura de Software para o Sistema de Vendas de Ingressos
 Componentes Principais:
 
 Frontend (Interface do Usuário):
